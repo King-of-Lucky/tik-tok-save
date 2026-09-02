@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.spec
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# TikTok Save runtime output
+*.mp4
+*.part
+.tiktok-save-archive.txt
+.tiktok-save-files.json
+.tiktok-save-verified.json

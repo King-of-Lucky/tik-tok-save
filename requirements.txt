@@ -1,0 +1,3 @@
+yt-dlp[default,curl-cffi]>=2026.8.19
+playwright>=1.52.0
+requests>=2.32.0
