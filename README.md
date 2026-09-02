@@ -188,6 +188,14 @@ embed_player_patch.py    Exact-ID video downloader using TikTok's player
 ui_help_patch.py         In-app explanation of the browser workflow
 ```
 
+## Contributing
+
+Contributions are welcome.
+
+If you find a bug, have an idea for an improvement, or want to add support for new TikTok behaviors, feel free to open an Issue or submit a Pull Request.
+
+Please keep changes focused, explain what was changed, and test the affected download flow before submitting.
+
 ## License
 
 TikTok Save is released under the **MIT License**. See `LICENSE` for details.
